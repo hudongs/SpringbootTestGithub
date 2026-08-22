@@ -18,11 +18,11 @@
 ## 如果您觉得有帮助，请点右上角 "Star" 支持一下谢谢
 &nbsp;
 ## 1. 总体架构图
-![mark](https://gitee.com/zlt2000/images/raw/master/springcloud%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84%E5%9B%BE.jpg)
+![mark](./images/springcloud微服务架构图.jpg)
 
 &nbsp;
 ## 2. 功能介绍
-![mark](https://gitee.com/zlt2000/images/raw/master/ZLT-MP%E5%BE%AE%E6%9C%8D%E5%8A%A1%E5%B9%B3%E5%8F%B0%E5%8A%9F%E8%83%BD%E5%9B%BE.jpg)
+![mark](./images/ZLT-MP微服务平台功能图.jpg)
 
 &nbsp;
 ## 3. 项目介绍
@@ -32,7 +32,7 @@
         <td><center><strong><a href="https://qm.qq.com/cgi-bin/qm/qr?k=HntAHTirZwCEjF8PQpjDYkw37Zx5rJg8&jump_from=webapi" target="_blank">交流三群</a></strong></center></td>
 	</tr>
 	<tr>
-        <td><a href="https://qm.qq.com/cgi-bin/qm/qr?k=HntAHTirZwCEjF8PQpjDYkw37Zx5rJg8&jump_from=webapi" target="_blank"><img width=250px height=300px alt="交流三群" src="https://gitee.com/zlt2000/images/raw/master/%E4%BA%A4%E6%B5%81%E4%B8%89%E7%BE%A4.png"/></a></td>
+        <td><a href="https://qm.qq.com/cgi-bin/qm/qr?k=HntAHTirZwCEjF8PQpjDYkw37Zx5rJg8&jump_from=webapi" target="_blank"><img width=250px height=300px alt="交流三群" src="./images/交流三群.png"/></a></td>
     </tr>
 </table>
 
@@ -110,8 +110,8 @@ central-platform -- 父项目，公共依赖
 
 <table>
     <tr>
-        <td><a target="_blank" href="https://www.aliyun.com/minisite/goods?userCode=dickv1kw&share_source=copy_link"><img width="460px" height="177px" alt="阿里云" src="https://gitee.com/zlt2000/images/raw/master/aly.jpg"/></a></td>
-        <td><a target="_blank" href="https://cloud.tencent.com/act/cps/redirect?redirect=1074&cps_key=5516bbd5876cd224d90bd41d53d3f7fe&from=console"><img width="460px" height="177px"  alt="腾讯云" src="https://gitee.com/zlt2000/images/raw/master/txy.jpg"/></a></td>
+        <td><a target="_blank" href="https://www.aliyun.com/minisite/goods?userCode=dickv1kw&share_source=copy_link"><img width="460px" height="177px" alt="阿里云" src="./images/aly.jpg"/></a></td>
+        <td><a target="_blank" href="https://cloud.tencent.com/act/cps/redirect?redirect=1074&cps_key=5516bbd5876cd224d90bd41d53d3f7fe&from=console"><img width="460px" height="177px"  alt="腾讯云" src="./images/txy.jpg"/></a></td>
     </tr>
 </table>
 
@@ -132,32 +132,32 @@ central-platform -- 父项目，公共依赖
 ## 7. 截图（点击可大图预览）
 <table>
     <tr>
-        <td><img alt="首页" src="https://gitee.com/zlt2000/images/raw/master/%E9%A6%96%E9%A1%B5.png"/></td>
-        <td><img alt="用户搜索" src="https://gitee.com/zlt2000/images/raw/master/%E7%94%A8%E6%88%B7%E6%90%9C%E7%B4%A2.png"/></td>
+        <td><img alt="首页" src="./images/首页.png"/></td>
+        <td><img alt="用户搜索" src="./images/用户搜索.png"/></td>
     </tr>
     <tr>
-        <td><img alt="日志系统" src="https://gitee.com/zlt2000/images/raw/master/%E6%97%A5%E5%BF%97%E7%B3%BB%E7%BB%9F.png"/></td>
-        <td><img alt="日志链路" src="https://gitee.com/zlt2000/images/raw/master/%E6%97%A5%E5%BF%97%E9%93%BE%E8%B7%AF.png"/></td>
+        <td><img alt="日志系统" src="./images/日志系统.png"/></td>
+        <td><img alt="日志链路" src="./images/日志链路.png"/></td>
     </tr>
 	<tr>
-        <td><img alt="server_metrics" src="https://gitee.com/zlt2000/images/raw/master/server_metrics.png"/></td>
-        <td><img alt="application_metrics" src="https://gitee.com/zlt2000/images/raw/master/application_metrics.png"/></td>
+        <td><img alt="server_metrics" src="./images/server_metrics.png"/></td>
+        <td><img alt="application_metrics" src="./images/application_metrics.png"/></td>
     </tr>
     <tr>
-        <td><img alt="skywalking首页.png" src="https://gitee.com/zlt2000/images/raw/master/skywalking%E9%A6%96%E9%A1%B5.png"/></td>
-        <td><img alt="skywalking应用拓扑图" src="https://gitee.com/zlt2000/images/raw/master/skywalking%E5%BA%94%E7%94%A8%E6%8B%93%E6%89%91%E5%9B%BE.png"/></td>
+        <td><img alt="skywalking首页.png" src="./images/skywalking首页.png"/></td>
+        <td><img alt="skywalking应用拓扑图" src="./images/skywalking应用拓扑图.png"/></td>
     </tr>
     <tr>
-        <td><img alt="elk" src="https://gitee.com/zlt2000/images/raw/master/elk.png"/></td>
-        <td><img alt="任务中心" src="https://gitee.com/zlt2000/images/raw/master/%E4%BB%BB%E5%8A%A1%E4%B8%AD%E5%BF%83.png"/></td>
+        <td><img alt="elk" src="./images/elk.png"/></td>
+        <td><img alt="任务中心" src="./images/任务中心.png"/></td>
     </tr>
     <tr>
-        <td><img alt="日志中心02" src="https://gitee.com/zlt2000/images/raw/master/%E6%97%A5%E5%BF%97%E4%B8%AD%E5%BF%8302.png"/></td>
-        <td><img alt="慢查询sql" src="https://gitee.com/zlt2000/images/raw/master/%E6%85%A2%E6%9F%A5%E8%AF%A2sql.png"/></td>
+        <td><img alt="日志中心02" src="./images/日志中心02.png"/></td>
+        <td><img alt="慢查询sql" src="./images/慢查询sql.png"/></td>
     </tr>
     <tr>
-        <td><img alt="nacos-discovery" src="https://gitee.com/zlt2000/images/raw/master/nacos-discovery.png"/></td>
-        <td><img alt="应用吞吐量监控" src="https://gitee.com/zlt2000/images/raw/master/%E5%BA%94%E7%94%A8%E5%90%9E%E5%90%90%E9%87%8F%E7%9B%91%E6%8E%A7.png"/></td>
+        <td><img alt="nacos-discovery" src="./images/nacos-discovery.png"/></td>
+        <td><img alt="应用吞吐量监控" src="./images/应用吞吐量监控.png"/></td>
     </tr>
 </table>
 
